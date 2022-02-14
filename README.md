@@ -2,7 +2,6 @@
 <p align="center">
   Desafio 3: Corrigindo o Código
   <br>
-  <img align="center" alialt="Ignite" src="./assets/ignite.png" />
 </p>
 <h1 align="center">:pushpin: Sobre o desafio</h1>
 Nesse desafio, temos uma aplicação Node.js que está em processo de desenvolvimento mas que já possui os testes necessários para fazer toda a validação dos requisitos (você não deve mexer nos testes).
